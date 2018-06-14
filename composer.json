@@ -1,0 +1,10 @@
+{
+    "name": "victor/composer",
+    "description": "treinando composer",
+    "type": "peoject",
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*",
+        "slim/slim": "2.0"
+    }
+}
